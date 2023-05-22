@@ -1,4 +1,5 @@
-# rbCaptcha
+[![Gem Version](https://badge.fury.io/rb/rbCaptcha.svg)](https://badge.fury.io/rb/rbCaptcha)
+# rbCaptcha 
 
 > This library can help you create a captcha in your terminal application, which may be damaged by a large influx of requests.
 
