@@ -18,7 +18,7 @@ end
 
 ## Authors
 
-- [@SetScript](https://www.github.com/resweirdoo) (or i)
+- [@SetScript](https://www.github.com/setscript) (or i)
 
 ## Installation
 
